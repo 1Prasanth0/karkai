@@ -1,0 +1,40 @@
+# To Study (Cognitive Science Model)
+
+## Philosophy (Why)
+Ethics
+Logic
+Epistemology 
+MetaPhysics 
+Phenomenology 
+
+## What 
+Space and Time Synchronization of Objects
+Cognitive Design 
+Industrial Automation 
+Replace all Type of Human Work even Birth Too
+
+## Digital Science (How)
+Semantic Web
+Object Oriented Programming
+Ontology 
+
+## Language (How)
+Morphology
+Semiotics, Semantics  
+Natural Language Processing 
+
+## Mathematics (How)
+Logic Set Category Type 
+Geometry Algebra Calculus  
+Combinatorics Probability Statistics 
+
+## Physics 
+
+## Chemistry 
+
+## Neuroscience (How)
+
+## Artifical Intelligence (How)
+
+
+-
